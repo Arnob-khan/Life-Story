@@ -1,3 +1,4 @@
 
 hello hi are you mr.arnob?Yes i am arnob Arnob Khan is my name 
 what is your name? my name is jahid now i am learning git.
+i am learnig commit add 
